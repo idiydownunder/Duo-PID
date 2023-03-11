@@ -5,9 +5,9 @@
 //  Sketch for Duo PID Control project.
 //
 //  Software Version: 1.0 
-//  For PCB Revisions 1.0 & 2.0
+//  For PCB Revisions 1.0 to 2.1
 //
-//  Coded By: Julian Carmichael
+//  Coded By: Julian Carmichael (aka Digital Jester) for iDIY Down Under
 //
 //======================================================================
 
@@ -1274,7 +1274,7 @@ void button_handler()
     }    
 }
 //------------------------------------------------------------------------------------------------------
-// This routine is used to which button has been pressed.
+// This routine is used to determin which button has been pressed.
 //------------------------------------------------------------------------------------------------------
 int read_buttons() 
 {

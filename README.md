@@ -8,14 +8,14 @@ The Duo PID project is a device for controlling heating and or cooling operation
 
 ### Features
 
-2 x Independate PID's<br>
-Independate Tuning functions for each PID<br>
-Adaptive Tuning Mode for each PID<br>
-Independate on/off for each PID<br>
-Heating, Cooling or Both modes<br>
-Settings are saved to EPROM<br>
-Auto Start mode in case of power loss<br>
-Selectable C or F temp readouts<br>
+- 2 x Independate PID's
+- Independate Tuning functions for each PID
+- Adaptive Tuning Mode for each PID
+- Independate on/off for each PID
+- Heating, Cooling or Both modes
+- Settings are saved to EPROM
+- Auto Start mode in case of power loss
+- Selectable C or F temp readouts
 
 ### PCB Gerber Files
 
@@ -45,3 +45,15 @@ Build of materials can be found the BOM folder. Most of the PCB components can b
 - Adjust quantities to suit your needs. (Note some parts are optional and other have minimum order quantities)
 - Once your happy with your selection, place order and pay.
 - Wait for parts to arrive.
+
+### STL Files
+
+STL files are also included in the STL folder, So you can 3D Printer your own enslosure for this project. They are design to fit within the build plate of an Ender 3 (you may need to tweek the default setting to use the whole build plate).
+
+My print/slicer setting for this was as follows;
+- 4 top and bottom layers
+- 3 layer wall thickness
+- 25% infill
+- I printed with supports for the box shape areas and support blockers for the rounded areas.
+- .4 nozzel
+- .2 layer height
