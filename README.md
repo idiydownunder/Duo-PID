@@ -8,14 +8,14 @@ The Duo PID project is a device for controlling heating and or cooling operation
 
 ### Features
 
-2x PID's
-Independate Tuning functionsfor each PID
-Adaptive Tuning Mode for each PID
-Independate on/off for each PID
-Heating, Cooling or Both modes
-Settings are saved to EPROM
-Auto Start mode in case of power loss
-Selectable C or F temp readouts
+2 x Independate PID's<br>
+Independate Tuning functions for each PID<br>
+Adaptive Tuning Mode for each PID<br>
+Independate on/off for each PID<br>
+Heating, Cooling or Both modes<br>
+Settings are saved to EPROM<br>
+Auto Start mode in case of power loss<br>
+Selectable C or F temp readouts<br>
 
 ### PCB Gerber Files
 
