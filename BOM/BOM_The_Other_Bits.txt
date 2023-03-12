@@ -2,7 +2,7 @@
 M4 Nuts and Bolts
 M3 Nuts and Bolts
 M2 Nuts and Bolts
-1 x Arduino Nano (Atmega 328P)
+1 x Arduino Nano (Mega 328P)
 1 x OLED 0.96 Display
 4 x GPO's (aka Power Points)
 4 x SSR-40 DA-H with Heat Sinks
