@@ -60,4 +60,7 @@ My print/slicer setting for this was as follows;
 - 25% infill
 - I printed with supports for the box shape areas and support blockers for the rounded areas.
 
+### Required Libaries
+[ssd1306](https://github.com/lexus2k/ssd1306)
+
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
