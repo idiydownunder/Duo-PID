@@ -1,8 +1,10 @@
 # Duo-PID
 
+<img src="https://github.com/idiydownunder/Duo-PID/blob/main/Resources/images/Duo_PID_01.jpg?raw=true" width="600">
+
 ### Introduction
 
-The Duo PID project is a device for controlling heating and or cooling operations with PID control. This project is split into two channels each with its own PID and temp sensor. I designed it for use with my fermentaion process when making home brew. However it cold also be used for heating and cooling of spaces in the home or office, other applications that come to mind are seed propergation, 3D Printer enclouser controll and even possibly food dehidrator or anything that required accurate temp control.
+The Duo PID project is a device for controlling heating and or cooling operations with PID control. This project is split into two channels each with its own PID and temp sensor. I designed it for use with my fermentaion process when making home brew. However it could also be used for heating and cooling of spaces in the home or office. Other applications that come to mind are seed propergation, 3D Printer enclouser controll and even possibly food dehidrator or anything else that required accurate temp control.
 
 **PLEASE NOTE:** *This is a mains powered project, attempt at your own risk.*
 
@@ -51,9 +53,11 @@ Build of materials can be found the BOM folder. Most of the PCB components can b
 STL files are also included in the STL folder, So you can 3D Printer your own enslosure for this project. They are design to fit within the build plate of an Ender 3 (you may need to tweek the default setting to use the whole build plate).
 
 My print/slicer setting for this was as follows;
+- .4 nozzel
+- .2 layer height
 - 4 top and bottom layers
 - 3 layer wall thickness
 - 25% infill
 - I printed with supports for the box shape areas and support blockers for the rounded areas.
-- .4 nozzel
-- .2 layer height
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.

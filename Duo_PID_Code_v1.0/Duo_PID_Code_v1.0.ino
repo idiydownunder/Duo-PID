@@ -7,7 +7,12 @@
 //  Software Version: 1.0 
 //  For PCB Revisions 1.0 to 2.1
 //
-//  Coded By: Julian Carmichael (aka Digital Jester) for iDIY Down Under
+//  Copyright (c) 2023 iDIY Down Under
+//  Author: Julian Carmichael (aka Digital Jester)
+//
+//  This work is licensed under a Creative Commons 
+//  Attribution-NonCommercial-ShareAlike 4.0 International License
+//  http://creativecommons.org/licenses/by-nc-sa/4.0/
 //
 //======================================================================
 
