@@ -1,4 +1,4 @@
-5 x 12mm NO Push Button Switchs
+5 x 12mm NO Non Latching Push Button Switchs
 M4 Nuts and Bolts
 M3 Nuts and Bolts
 M2 Nuts and Bolts
@@ -7,3 +7,4 @@ M2 Nuts and Bolts
 4 x GPO's (aka Power Points)
 4 x SSR-40 DA-H with Heat Sinks
 2 x DS18B20 Temp Probe
+1 x Mains Transformer with output between 6-30v AC at 1A

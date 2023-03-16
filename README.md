@@ -80,4 +80,14 @@ Both of these libary zip's can be found in the Resources/libaries folder within 
 - [ssd1306.h](https://github.com/lexus2k/ssd1306)
 - [PID_v1.h](https://github.com/br3ttb/Arduino-PID-Library)
 
+### Donate
+
+While developing things like this are a passion and hobby for me. I ask that if you have found this educational, helpful or insiteful, maybe you could consider making a donation to the project. To help fund future development costs, mainly my time, coffee and supplies.
+
+Cash donations can be made through my [PayPal.Me](https://www.paypal.com/paypalme/carmichaeljuian) link.
+
+Crypto donations can be made to the following wallets;<br>
+Bitcoin (BTC): 1Kt78m7LPZkkfxyMx8rVcdJxBftZw937Sc<br>
+Monero (XMR): 4BAco3fES2cXfymfx7NVd62Z6EfgXNvaZg3tba8jWjvHR52cHDbmkiT5iEm3Kxq4XhbCeFEacCJzkBYtHpXwwGbJ2d7FWwr<br>
+
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.

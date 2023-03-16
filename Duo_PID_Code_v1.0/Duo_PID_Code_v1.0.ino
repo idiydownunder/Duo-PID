@@ -10,6 +10,8 @@
 //  Copyright (c) 2023 iDIY Down Under
 //  Author: Julian Carmichael (aka Digital Jester)
 //
+//  GitHub: https://github.com/idiydownunder/Duo-PID
+//
 //  This work is licensed under a Creative Commons 
 //  Attribution-NonCommercial-ShareAlike 4.0 International License
 //  http://creativecommons.org/licenses/by-nc-sa/4.0/
